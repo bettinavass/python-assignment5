@@ -4,9 +4,12 @@ num1 = 1
 num2 = 2
 num3 = 3
 
-print(num1)
-print(num2)
-print(num3)
+if n >= 1:
+    print(num1)
+if n >= 2:    
+    print(num2)
+if n >= 3:    
+    print(num3)
 
 for i in range(3, n):
     max_num = num1 + num2 + num3
