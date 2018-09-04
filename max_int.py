@@ -7,7 +7,6 @@ while True:
     else:
         max_int = max(max_int, num_int)
 
-        #this is a commant
 
 print("The maximum is", max_int)         
 
